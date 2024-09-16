@@ -1,5 +1,10 @@
 <?php
 
+namespace Database\Seeders;
+
+use DB;
+use Illuminate\Database\Seeder;
+
 class CountriesTableSeeder extends Seeder {
 	
 	public function run() 
